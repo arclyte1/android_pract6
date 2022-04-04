@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">pract6</string>
+    <string name="key">Key or filename</string>
+    <string name="text">Text</string>
+</resources>
